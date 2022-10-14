@@ -1,5 +1,7 @@
 # osx-lock-on-remove-usb
-Lock the screen on OS X when some USB device is removed
+Lock the screen on OS X when some USB device is removed.
+
+This tool relies on the usage of the default `ctrl+cmd+q` shortcut to lock the screen.
 
 # Find vendor and product ID
 
